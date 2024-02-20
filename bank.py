@@ -1,0 +1,17 @@
+# bank.py
+# progaram that prompt the user and read in two money amounts (in cents)
+# add the two amounts
+# then print out the answer in euro sign and decimal point between
+# the euro and the cent amount.
+
+
+# First amount(in cents) = 65
+# Second amount (in cents) = 180
+
+amount1 = input('Enter amount1: ')
+amount2 = input('Enter amount2: ')
+Totalamount = int(amount1) + int(amount2)
+print(Totalamount)
+
+Finalsum = Totalamount / 100
+print('€',Finalsum)
