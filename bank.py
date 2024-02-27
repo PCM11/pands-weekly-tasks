@@ -13,5 +13,7 @@ amount2 = input('Enter amount2: ')
 Totalamount = int(amount1) + int(amount2)
 print(Totalamount)
 
+# divive Totalamount by 100 to convert cents to euros
+
 Finalsum = Totalamount / 100
 print('€',Finalsum)
