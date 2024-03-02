@@ -4,7 +4,7 @@
 # author: Phumi
 
 # account number: 1234567890
-'''
+
 account_number = input('Please enter your 10 digit account number:')
 last4_digits = account_number[6:]
 print (last4_digits)
@@ -15,7 +15,7 @@ mask = 6 * str("X")
 Final_account = mask + last4_digits
 print (Final_account)
 
-'''
+
 # modify program to deal with account numbers of various lengths
 # import random function to generate random account numbers
 # ref: tutorialspoint.com, 
