@@ -4,28 +4,23 @@
 This repository contains weekly problem tasks for semester 1 of Programming and Scripting Module on Higher Data Analytics course offered by GMIT.
 The purpose of these tasks was to creat
 
-# Get Started
+## Get Started
 I used python to create the programs, and it can be installed by downloading [anaconda](https://www.anaconda.com/download).
 I also used a notebook editor which can be accessed through [Visual Studio Code](https://code.visualstudio.com/) installation.
 
-# Table of contents
+## List of Programs
 
 ## Programs
 ### 1.helloWorld.py
-
 ### 2.bank.py
+### 3.accounts.py
+### 4.collatz.py
+### 5.weekday.py
+### 6.es.py
+### 7.squareroot.py
+### 8.plottask.py
 
-### (*)accounts.py
-### (-)collatz.py
-### (5)weekday.py
-
-6.es.py
-
-7.squareroot.py
-
-8.plottask.py
-
-## Helloworld.py
+### Helloworld.py
 This program displays "Hello World! when it is run
 
 ## Bank.py
@@ -56,6 +51,7 @@ Expected output:
 This program asks the user to input any positive integer and outputs the successive values of the following calculation.
 
 At each step it calculates the next value by taking the current value and, if it is even, divide it by two, but if it is odd, multiply it by three and add one.
+More details about the [Collatz conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture) can be found on wikipedia.
 
 Instruction:
     Please enter a positive number: 10
@@ -75,8 +71,7 @@ Output:
 
 
 ## Squareroot.py
-This program creates a code that estimates a square root of a number using
-Newton's method, without using the built in square root functions "x**o.5 or math.sqrt(x)".
+This program creates a code that estimates a square root of a number by applying [Newton's method](https://en.wikipedia.org/wiki/Newton%27s_method), if you want to avoid using the built in square root functions "x**o.5 or math.sqrt(x)".
 
 Instruction:
     Please enter a positive number: 14.5

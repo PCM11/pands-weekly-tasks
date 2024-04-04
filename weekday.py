@@ -1,7 +1,8 @@
 # weekday.py
 # this program prints out whether or not today is a weekday.
-# author: Phumi Tshidi
+
 # ref: docs.python.org, stackoverflow.com
+#ref: Phumi
 
 import datetime
 

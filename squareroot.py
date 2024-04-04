@@ -1,8 +1,10 @@
 # this program takes a positive floating point number,
 # as an input and prints out the approximate square root,
 # using Newtons method.
+
+# ref: https://en.wikipedia.org/wiki/Newton's_method
+# ref: https://www.geeksforgeeks.org/find-root-of-a-number-using-newtons-method/
 # author - Phumi Tshidi
-# ref: Wikipedia, openstax.org
 
 def sqrt_float(num):
     # initial guess for the square root

@@ -1,7 +1,9 @@
 # this program asks the user to input any positive integer,
 # and outputs the successive values until it reaches one.
-# ref: Real Python, stackoverflow.com
-# author: Phumi
+
+# ref: https://www.pythonpool.com/collatz-sequence-python/
+# ref: https://stackoverflow.com/
+# author: Phumi Tshidi
 
 
 # it divides even numbers by 2

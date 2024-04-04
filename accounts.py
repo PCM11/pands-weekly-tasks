@@ -1,7 +1,7 @@
 # this program reads in a 10 character account number,
 # and outputs the account number with only last 4digit showing,
 # and the first 6 digits replaced with Xs)
-# author: Phumi
+# author: Phumi Tshidi
 
 # account number: 1234567890
 
@@ -18,8 +18,7 @@ print (Final_account)
 
 # modify program to deal with account numbers of various lengths
 # import random function to generate random account numbers
-# ref: tutorialspoint.com, 
-# ref: stackoverflow.com
+# ref: https://www.tutorialspoint.com/python/index.htm 
 
 import random
 import string
