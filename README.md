@@ -11,9 +11,9 @@ I also used a notebook editor which can be accessed through [Visual Studio Code]
 # Table of contents
 
 ## Programs
-    ###1.helloWorld.py
+### 1.helloWorld.py
 
-    ###2.bank.py
+### 2.bank.py
 
 3.accounts.py
 
