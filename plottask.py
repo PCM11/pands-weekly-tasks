@@ -1,7 +1,7 @@
-#  this program displays a histogram of a normal distribution
-# and a plot of the function  h(x)=x3  
-# author Phumi Tshidi
+# this program displays a histogram of a normal distribution
+# and a plot of the function  h(x)=x3 
 # ref: W3 Schools, geeksforgeeks.org
+# author Phumi Tshidi
 
 import numpy as np
 import matplotlib.pyplot as plt

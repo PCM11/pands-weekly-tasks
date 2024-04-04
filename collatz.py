@@ -21,9 +21,4 @@ number = input("Please enter a positive integer: ")
 # loop continues until the answer is 1.
 while number !=1:
     number = collatz(int(number))
-
-
-        
     
-
-
