@@ -15,9 +15,9 @@ I also used a notebook editor which can be accessed through [Visual Studio Code]
 
 ### 2.bank.py
 
-### *accounts.py
-### *collatz.py
-### *weekday.py
+### (*)accounts.py
+### (-)collatz.py
+### (5)weekday.py
 
 6.es.py
 
