@@ -5,15 +5,15 @@ This repository contains weekly problem tasks for semester 1 of Programming and 
 The purpose of these tasks was to creat
 
 # Get Started
-I used python to create the programs, and it can be installed by downloading[anaconda](https://www.anaconda.com/download).
+I used python to create the programs, and it can be installed by downloading [anaconda](https://www.anaconda.com/download).
 I also used a notebook editor which can be accessed through [Visual Studio Code](https://code.visualstudio.com/) installation.
 
 # Table of contents
 
 ## Programs
-1.helloWorld.py
+    ###1.helloWorld.py
 
-2.bank.py
+    ###2.bank.py
 
 3.accounts.py
 
