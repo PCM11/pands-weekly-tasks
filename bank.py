@@ -1,9 +1,9 @@
-# bank.py
-# progaram that prompt the user and read in two money amounts (in cents)
-# add the two amounts
-# then print out the answer in euro sign and decimal point between
-# the euro and the cent amount.
+# Bank.py
+# Progaram that prompts the user and read in two money amounts (in cents).
+# It then add the two amounts,
+# Then print out the answer in euro sign and decimal point between the euro and the cent amount.
 
+# Author: Phumi Tshidi
 
 # First amount(in cents) = 65
 # Second amount (in cents) = 180

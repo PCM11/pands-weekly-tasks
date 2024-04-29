@@ -1,6 +1,6 @@
-# this program displays a histogram of a normal distribution
-# and a plot of the function  h(x)=x3 
-
+# Plottask.py program
+# This program displays a histogram of a normal distribution and a plot of the function  h(x)=x3.
+# Author
 # ref: https://www.w3schools.com/python/matplotlib_intro.asp
 #ref: https://www.geeksforgeeks.org/plotting-histogram-in-python-using-matplotlib/
 # author Phumi Tshidi
