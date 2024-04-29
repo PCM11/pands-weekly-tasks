@@ -21,12 +21,4 @@ def sqrt_float(num):
          guess = new_guess
 
 num =float(input("Please enter a positive integer: "))
-print(sqrt_float(num))
-       
-
-     
-
-
-
-    
-   
+print(sqrt_float(num)) 

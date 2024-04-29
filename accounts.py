@@ -33,13 +33,3 @@ print(f"Created account ID: {new_account_ID}" )
 
 print(f"Created account ID: {8 * str('X')}{new_account_ID[8:]}" )
 
-
-  
-
-    
-
-
-
-
-
-
